@@ -1,6 +1,6 @@
 {
   "name": "xml-writer",
-  "version": "1.4.2",
+  "version": "1.6.0",
   "author": "Nicolas Thouvenin <nthouvenin@gmail.com>",
   "contributors": [
     {
@@ -13,6 +13,10 @@
     {
       "name": "Peecky",
       "url": "https://github.com/peecky"
+    },
+    {
+      "name": "Julian Scheid",
+      "url": "https://github.com/jscheid"
     }
   ],
   "description": "Native and full Javascript implementation of the classic XMLWriter class",
